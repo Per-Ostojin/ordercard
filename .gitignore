@@ -1,0 +1,17 @@
+# Mac-specifika filer
+.DS_Store
+
+# VS Code-inställningar
+.vscode/
+
+# Node.js-relaterade filer (om det används i framtiden)
+node_modules/
+
+# Loggfiler
+*.log
+
+# Build-output (t.ex., dist-mappar)
+dist/
+
+# Känsliga filer
+.env
